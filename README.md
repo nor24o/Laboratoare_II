@@ -2,7 +2,7 @@
 # Problema 2/3
 
 h3 Metoda Hoffman de compresie
-
+Order
 1.Citeste de la utilizator un text
 2.Partea de compresie functionala
   1.Afisare pe interfata a numarului de caractere
